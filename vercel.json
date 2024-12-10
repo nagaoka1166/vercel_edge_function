@@ -2,7 +2,7 @@
   "functions": {
     "measure.js": {
       "memory": 128,
-      "maxDuration": 1000
+      "maxDuration": 1
     }
   }
 }
