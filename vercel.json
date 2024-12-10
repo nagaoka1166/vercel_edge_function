@@ -1,7 +1,7 @@
 {
   "functions": {
-    "/api/measure.js": {
-      "memory": 128
+    "api/*.js": {
+      "runtime": "edge"
     }
   }
 }
