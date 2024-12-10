@@ -1,7 +1,7 @@
 {
   "functions": {
-    "measure.js": {
-      "memory": 128,
+    "api/measure.js": {
+      "memory": 128
       "maxDuration": 1
     }
   }
