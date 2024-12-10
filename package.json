@@ -1,0 +1,16 @@
+{
+  "name": "my-vercel-project",
+  "version": "1.0.0",
+  "description": "Vercel Edge Function Example",
+  "main": "api/handler.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "start": "vercel start"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
